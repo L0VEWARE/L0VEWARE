@@ -7,4 +7,8 @@
 <img src="https://github.com/user-attachments/assets/e1371a26-ad56-421f-b9f7-2058a4779639" width="35">
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/L0VEWARE?color=FFF7F1&style=plastic&labelColor=F4ABB4&label=CONTACTS"/>
 
+<img src="https://github.com/user-attachments/assets/5a8f8368-ece3-411b-a805-f733a59bb869" width="150">
+<img src="https://github.com/user-attachments/assets/52dafb6d-1f85-499f-91c0-8f666c35d33b" width="150" height="91">
+
+
 [<img width="1500" height="1024" alt="Untitled409_20260202014712" src="https://github.com/user-attachments/assets/110d1170-6a5f-4098-bc78-97aec37c7a7d" />](https://loveware.atabook.org/) 

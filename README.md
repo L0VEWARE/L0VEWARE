@@ -11,6 +11,8 @@
 <img src="https://github.com/user-attachments/assets/5a8f8368-ece3-411b-a805-f733a59bb869" width="150"/>
 
 [<img width="150" height="91" alt="ILOVEYOU" src="https://github.com/user-attachments/assets/52dafb6d-1f85-499f-91c0-8f666c35d33b"/>](https://x.com/astroiic/)
+[<img width="150" height="91" alt="STRAWPAGE" src="https://github.com/user-attachments/assets/3be46b7c-9ec3-4b51-bb62-3510126f7d3e"/>](https://lcveware.straw.page)
+
 
 
 [<img width="1500" height="1024" alt="Untitled409_20260202014712" src="https://github.com/user-attachments/assets/110d1170-6a5f-4098-bc78-97aec37c7a7d" />](https://loveware.atabook.org/) 

@@ -1,7 +1,7 @@
 <div align="center">
 <img width="2000" height="2000" alt="Untitled406_20260201213304" src="https://github.com/user-attachments/assets/fcbbabf2-cd15-4af3-a6c5-afaad281dafb" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=2500&pause=500&color=E485B6&background=FFFFFF00&center=true&multiline=true&repeat=false&width=435&lines=%50+Marvelous!!+Make+sure+to+send+me+a+letter!!+%50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1000&color=E485B6&center=true&width=435&lines="Marvelous!%2C+Make+sure+to+send+me+a+letter!!";.....;"How+amusing,+nice+letters!!+>▽<")](https://git.io/typing-svg)
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=L0VEWARE&color=E485B6&style=plastic&label=LETTERS+♡&labelColor=AD496B)
 <img src="https://github.com/user-attachments/assets/e1371a26-ad56-421f-b9f7-2058a4779639" width="35">

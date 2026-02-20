@@ -1,5 +1,5 @@
 <div align="center">
-<img width="2000" height="2000" alt="Untitled406_20260201213304" src="https://github.com/user-attachments/assets/fcbbabf2-cd15-4af3-a6c5-afaad281dafb" />
+<img src="https://github.com/user-attachments/assets/91269521-7f5f-4a7a-bfcd-ebf903b4c418"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1000&color=E485B6&center=true&width=435&lines="Marvelous!++Make+sure+to+send+me+a+letter!!";.....;"How+amusing%2C+nice+letters!!+>▽<")](https://git.io/typing-svg)
 
